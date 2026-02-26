@@ -5,18 +5,18 @@ Este repositorio está dedicado a gestionar y organizar los libros que estoy ley
 ## 📖 Libros en Lectura / Referencia
 
 ### 💻 Ciencias de la Computación y Programación
-* [**Code: The Hidden Language of Computer Hardware and Software**](./Code-Petzold/) – *Charles Petzold*
-* [**Computer Systems: A Programmer's Perspective**](./Computer-Systems/) – *Randal E. Bryant & David R. O'Hallaron*
-* [**Grokking Algorithms**](./Grokking-Algorithms/) – *Aditya Y. Bhargava*
-* [**The Programmer's Brain**](./Programmers-Brain/) – *Felienne Hermans*
-* [**Think Like a Programmer**](./Think-Like-a-Programmer/) – *V. Anton Spraul*
+* **Code: The Hidden Language of Computer Hardware and Software** (Second Edition) – *Charles Petzold*
+* **Computer Systems: A Programmer's Perspective** (3rd Edition) – *Randal E. Bryant & David R. O'Hallaron*
+* **Grokking Algorithms** (Second Edition) – *Aditya Y. Bhargava*
+* **The Programmer's Brain:** What every programmer needs to know about cognition – *Felienne Hermans*
+* **Think Like a Programmer:** An Introduction to Creative Problem Solving – *V. Anton Spraul*
 
 ### 🧠 Desarrollo Personal y Mentalidad
-* [**Si lo crees, lo creas**](./Si-lo-crees-lo-creas/) – *Brian Tracy & Christina Stein*
-* [**Can't Hurt Me**](./Cant-Hurt-Me/) – *David Goggins*
+* **Si lo crees, lo creas** – *Brian Tracy & Christina Stein*
+* **Can't Hurt Me** – *David Goggins*
 
 ## 🚀 Objetivo
-El propósito de este repositorio es mantener un registro de mi progreso de aprendizaje. También me sirve como base para el **Club de Lectura Familiar** que comparto con mis hermanas Ana y Salo, donde anotamos palabras nuevas y reflexiones.
+El propósito de este repositorio es mantener un registro de mi progreso de aprendizaje y tener acceso rápido a la bibliografía técnica que utilizo para mejorar mis habilidades como desarrollador.
 
 ---
 *Optimiza tu mente, mejora tu código.*
